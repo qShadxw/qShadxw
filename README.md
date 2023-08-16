@@ -1,6 +1,6 @@
 <h1 align="center">Hello, My name is Tyler ✨</h1>
 <hr>
-<h2 align="center">I am a developer which works on multiple languages.</h2>
+<h2 align="center">I am a developer who works with multiple languages.</h2>
 <h3 align="center">My aliases are qShadxw and Shadow.</h3>
 
 - ☕ I am currently working with `Java`
